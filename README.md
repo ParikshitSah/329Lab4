@@ -1,5 +1,3 @@
-![](./resources/official_armmbed_example_badge.png)
-
 # Bare metal blinky Mbed OS example
 ## This is a prelab for ECET 329 Lab 4
 ### Purdue University
