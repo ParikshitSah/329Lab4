@@ -1,0 +1,98 @@
+[
+    {
+        "module": "[lib]\\libcppabi_w.l",
+        "size": {
+            ".text": 44,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 44,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]\\mc_w.l",
+        "size": {
+            ".text": 814,
+            ".data": 4,
+            ".bss": 40,
+            ".text-delta": 814,
+            ".data-delta": 4,
+            ".bss-delta": 40
+        }
+    },
+    {
+        "module": "anon$$obj.o",
+        "size": {
+            ".text": 32,
+            ".data": 0,
+            ".bss": 4096,
+            ".text-delta": 32,
+            ".data-delta": 0,
+            ".bss-delta": 4096
+        }
+    },
+    {
+        "module": "main.o",
+        "size": {
+            ".text": 396,
+            ".data": 0,
+            ".bss": 24,
+            ".text-delta": 396,
+            ".data-delta": 0,
+            ".bss-delta": 24
+        }
+    },
+    {
+        "module": "mbed-os\\drivers",
+        "size": {
+            ".text": 178,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 178,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "mbed-os\\hal",
+        "size": {
+            ".text": 2142,
+            ".data": 4,
+            ".bss": 59,
+            ".text-delta": 2142,
+            ".data-delta": 4,
+            ".bss-delta": 59
+        }
+    },
+    {
+        "module": "mbed-os\\platform",
+        "size": {
+            ".text": 6834,
+            ".data": 0,
+            ".bss": 303,
+            ".text-delta": 6834,
+            ".data-delta": 0,
+            ".bss-delta": 303
+        }
+    },
+    {
+        "module": "mbed-os\\targets",
+        "size": {
+            ".text": 3929,
+            ".data": 4,
+            ".bss": 241,
+            ".text-delta": 3929,
+            ".data-delta": 4,
+            ".bss-delta": 241
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 4775,
+            "static_ram_delta": 4775,
+            "total_flash": 14381,
+            "total_flash_delta": 14381
+        }
+    }
+]
