@@ -2,6 +2,7 @@
 
 # Bare metal blinky Mbed OS example
 ## This is a prelab for ECET 329 Lab 4
+### Purdue University
 
 This example shows how to achieve memory optimizations in Mbed OS. Starting with a blinky application, the example illustrates how to enable the bare metal profile and further memory optimizations.
 
